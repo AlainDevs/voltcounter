@@ -1,4 +1,4 @@
-package com.example.voltcounter
+package com.raal.voltcounter
 
 import io.flutter.embedding.android.FlutterActivity
 
